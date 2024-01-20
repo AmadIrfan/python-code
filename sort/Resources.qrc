@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>P.png</file>
+  </qresource>
+  <qresource prefix="Logo">
+    <file>Logo.jpg</file>
+    <file>header.jpg</file>
+  </qresource>
+  <qresource prefix="Remove">
+    <file>remove.png</file>
+  </qresource>
+  <qresource prefix="Add">
+    <file>add.png</file>
+  </qresource>
+  <qresource prefix="Insert">
+    <file>insert.png</file>
+  </qresource>
+  <qresource prefix="CRUD">
+    <file>CRUD.png</file>
+  </qresource>
+  <qresource prefix="Arrow">
+    <file>arrow.png</file>
+  </qresource>
+  <qresource prefix="Search">
+    <file>search-more.png</file>
+  </qresource>
+  <qresource prefix="Map">
+    <file>map.png</file>
+  </qresource>
+  <qresource prefix="Menu">
+    <file>menu.png</file>
+  </qresource>
+  <qresource prefix="Account">
+    <file>account.png</file>
+  </qresource>
+  <qresource prefix="Sort">
+    <file>sort-amount.png</file>
+  </qresource>
+</RCC>

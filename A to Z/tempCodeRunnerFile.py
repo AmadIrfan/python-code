@@ -1,0 +1,6 @@
+reen' )
+plt.title('Daily Steps')
+plt.xlabel('steps')
+plt.ylabel('Date')
+plt.xticks(rotation=90)
+plt.show()
